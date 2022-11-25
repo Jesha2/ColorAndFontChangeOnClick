@@ -16,7 +16,7 @@ function newStyle() {
         newFont = 'Verdana';
         break; 
       case 3:
-        newColor= 'purple';
+        newColor= 'red';
         newFont = 'Courier New';
         break
       case 4:
