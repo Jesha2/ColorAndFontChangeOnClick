@@ -4,11 +4,11 @@ function newStyle() {
     let x = Math.floor(Math.random()*7); 
     switch (x){
       case 0:
-        newColor = 'red';
+        newColor = 'salmon';
         newFont = 'Times New Roman'; 
         break;
       case 1: 
-        newColor = 'blue';
+        newColor = 'purple';
         newFont = 'Florence, cursive'; 
         break;
       case 2:
@@ -16,15 +16,15 @@ function newStyle() {
         newFont = 'Verdana';
         break; 
       case 3:
-        newColor= 'red';
+        newColor= 'blue';
         newFont = 'Courier New';
         break
       case 4:
-        newColor = 'cyan';
+        newColor = 'red';
         newFont = 'Georgia'; 
         break;
       case 5:
-          newColor = 'maroon';
+          newColor = 'pink';
           newFont = 'Palatino';
           break;
       case 6: 
